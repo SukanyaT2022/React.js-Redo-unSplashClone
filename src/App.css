@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    width:100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    width:25%;
+    margin:1%;
+}
