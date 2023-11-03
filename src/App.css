@@ -3,6 +3,10 @@
     width:100vw;
     flex-wrap: wrap;
     justify-content: center;
+    flex-direction: column;
+}
+.wrapper_inner{
+    text-align: center;
 }
 img{
     width:25%;
